@@ -11,7 +11,7 @@ layout: default
 
 Many of us have family, friends or colleagues that have been affected by brain tumours. What better way to raise money for this worthy cause than spending the weekend of May 25th/26th walking the 27 mile STOOP amongst friends.
 
-**[Please click here if you would like to make a donation via JustGiving](https://www.justgiving.com/page/james-lewis-1714065688295)**
+**[Please click here if you would like to make a donation via JustGiving](https://www.justgiving.com/team/stoop)**
 
 ![STOOP view](assets/stoop-photo.webp)
 *Old Knebworth and Norton Green, Credit: Steve Pearcy, 2022*
