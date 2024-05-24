@@ -24,6 +24,8 @@ The **[Broken Seal walkers](https://www.facebook.com/brokensealtap/)** are a gro
 
 The walk will be split into two days of roughly equal length and each day then split into two halves. Joining us for both days, one day or a part of a day would be amazing. Included below is a map of the route from the North Herts Ramblers’ **[great overview](https://nhrg.org.uk/stoop-stevenage-outer-orbital-path/15-stoop/31-stoop-outline.html)**. We will have a few OS explorer route maps available so we don’t need to travel as one large group.
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1T4pLkqmm_uFzT2UgpAP9KmZA-gnB6QEH&ehbc=2E312F" width="640" height="480"></iframe>
+
 This page will be updated with more information including exact coordinates of start and end points and map details nearer the event.
 
 ### Day 1 ~ 13.5 miles
